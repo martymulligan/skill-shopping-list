@@ -1,4 +1,2 @@
-These are the items in your list
-Here's what you need to get
-This is what you're getting
-Here's what you need to pick up
+here you go {{items}}
+these are your items {{items}}
